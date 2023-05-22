@@ -1,2 +1,2 @@
 # git215_setup
-Mod 1 
+## Author: Dylan Duffer
